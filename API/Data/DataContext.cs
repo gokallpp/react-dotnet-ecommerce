@@ -9,3 +9,4 @@ public class DataContext : DbContext
 {
     public DbSet<Product> Products => Set<Product>();
 }
+

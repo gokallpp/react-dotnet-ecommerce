@@ -16,4 +16,6 @@ public class Product
     public int Stock { get; set; }
 
 
+
+
 }
